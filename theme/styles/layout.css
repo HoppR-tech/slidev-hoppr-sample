@@ -13,7 +13,7 @@
 
   /* Accent colors */
   --slidev-theme-accents-rose: #f141a8;
-  --slidev-theme-accents-teal: #44ffd2;
+  --slidev-theme-accents-purple: #44ffd2;
   --slidev-theme-accents-yellow: #ffe45e;
   --slidev-theme-accents-red: #fe4a49;
   --slidev-theme-accents-lightblue: #15c2cb;
@@ -31,7 +31,7 @@
   --slidev-theme-center-background: var(--slidev-theme-background);
 
   /*  Cover */
-  --slidev-theme-cover-headingBg: var(--slidev-theme-accents-teal);
+  --slidev-theme-cover-headingBg: var(--slidev-theme-accents-purple);
   --slidev-theme-cover-headingColor: var(--slidev-theme-accents-vulcan);
   --slidev-theme-cover-background: var(--slidev-theme-background);
 

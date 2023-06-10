@@ -114,7 +114,7 @@ themeConfig:
   code-background: "#0F131E"
   code-border: "#242d34"
 
-  accents-teal: "#44FFD2"
+  accents-purple: "#44FFD2"
   accents-yellow: "#FFE45E"
   accents-red: "#FE4A49"
   accents-lightblue: "#15C2CB"
@@ -129,7 +129,7 @@ themeConfig:
   center-headingColor: var(--slidev-theme-accents-vulcan)
   center-background: var(--slidev-theme-background)
 
-  cover-headingBg: var(--slidev-theme-accents-teal)
+  cover-headingBg: var(--slidev-theme-accents-purple)
   cover-headingColor: var(--slidev-theme-accents-vulcan)
   cover-background: var(--slidev-theme-background)
 

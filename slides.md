@@ -4,15 +4,15 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 
 themeConfig:
   color: "#F3EFF5"
-  background: "#141415"
+  background: "#131415"
 
   code-background: "#0F131E"
   code-border: "#242d34"
 
-  accents-teal: "#5754ff"
+  accents-purple: "#5865F2"
   accents-yellow: "#FFF154"
-  accents-red: "#FF5475"
-  accents-lightblue: "#54FFBC"
+  accents-red: "#F85352"
+  accents-lightblue: "#00CCA5"
   accents-blue: "#54AAFF"
   accents-vulcan: "#0E131F"
 
@@ -24,7 +24,7 @@ themeConfig:
   center-headingColor: var(--slidev-theme-accents-vulcan)
   center-background: var(--slidev-theme-background)
 
-  cover-headingBg: var(--slidev-theme-accents-teal)
+  cover-headingBg: var(--slidev-theme-accents-purple)
   cover-headingColor: var(--slidev-theme-accents-vulcan)
   cover-background: var(--slidev-theme-background)
 
